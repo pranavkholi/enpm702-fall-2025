@@ -11,9 +11,9 @@ int main() {
     //==============
     //======== 1
     //==============
-    std::cout << "hello, world\n";
+    //std::cout << "hello, world\n";
     // undefined_function();
-    return 0;
+    // return 0;
 
     //==============
     //======== 2
@@ -277,10 +277,10 @@ int main() {
     //==============
     //======== 19
     //==============
-    // int a{3};
-    // int b{2};
-    // std::cout << "Type of result: " << typeid(a / b).name() << '\n';
-    // std::cout << "Value of result: " << a / b << '\n';
+    //int a{3};
+    //int b{2};
+    //std::cout << "Type of result: " << typeid(a / b).name() << '\n';
+    //std::cout << "Value of result: " << a / b << '\n';
 
     //==============
     //======== 20
