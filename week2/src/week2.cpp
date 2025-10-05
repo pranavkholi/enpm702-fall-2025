@@ -6,6 +6,7 @@
 
 int main() {
 <<<<<<< HEAD
+<<<<<<< HEAD
     //==============
     //======== 1
     //==============
@@ -13,10 +14,15 @@ int main() {
     // undefined_function();
     // return 0;
 =======
+=======
+>>>>>>> upstream/main
   //==============
   //======== 1
   //==============
   //   std::cout << "hello, world\n";
+<<<<<<< HEAD
+>>>>>>> upstream/main
+=======
 >>>>>>> upstream/main
 
   //==============
@@ -277,6 +283,7 @@ int main() {
   // with 3.14159
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     //==============
     //======== 19
     //==============
@@ -285,12 +292,17 @@ int main() {
     //std::cout << "Type of result: " << typeid(a / b).name() << '\n';
     //std::cout << "Value of result: " << a / b << '\n';
 =======
+=======
+>>>>>>> upstream/main
   //==============
   //======== 18
   //==============
   // int a = 5;
   // double result = SQUARE(a);
   // std::cout << result << '\n';
+<<<<<<< HEAD
+>>>>>>> upstream/main
+=======
 >>>>>>> upstream/main
 
   //=====================
