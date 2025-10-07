@@ -1,9 +1,9 @@
 /**
  * @file sensor_types.hpp
- * @author TODO Include your name
+ * @author Pranav Jagdish Koli
  * @brief TODO Include a description
  * @version 1.0
- * @date 09-30-2025
+ * @date 10-05-2025
  * 
  * @copyright Copyright (c) 2025
  * 
