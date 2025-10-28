@@ -10,15 +10,10 @@ add_compile_options(-Wall -Wextra)
 
 # Optionally add all lecture subdirectories
 # add_subdirectory(week1)
-<<<<<<< HEAD
-add_subdirectory(task1)
-# add_subdirectory(week3)
-=======
 # add_subdirectory(week2)
 # add_subdirectory(week3)
 # add_subdirectory(week4)
 # add_subdirectory(week5)
 add_subdirectory(week6)
 
->>>>>>> upstream/main
 # add_subdirectory(reading_material)
