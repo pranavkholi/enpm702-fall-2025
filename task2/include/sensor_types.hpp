@@ -1,9 +1,9 @@
 /**
  * @file sensor_types.hpp
  * @author Pranav Jagdish Koli
- * @brief TODO Include a description
+ * @brief TODO A random generator providing random sensor data which is processed to validate the results.
  * @version 1.0
- * @date 10-05-2025
+ * @date 10-10-2025
  * 
  * @copyright Copyright (c) 2025
  * 
